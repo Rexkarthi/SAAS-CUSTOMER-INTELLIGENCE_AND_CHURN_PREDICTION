@@ -1,3 +1,10 @@
+<img width="1919" height="861" alt="Screenshot 2026-03-17 230934" src="https://github.com/user-attachments/assets/467bf2b4-7c7e-46e9-88e1-b2ebc12077fd" />
+<img width="1915" height="649" alt="Screenshot 2026-03-17 230913" src="https://github.com/user-attachments/assets/7eae1dc8-e0bd-4bcb-992e-f101fe762825" />
+<img width="1913" height="837" alt="Screenshot 2026-03-17 230734" src="https://github.com/user-attachments/assets/964035a7-ed21-47e8-97e1-dc916714c622" />
+<img width="1915" height="763" alt="Screenshot 2026-03-17 230653" src="https://github.com/user-attachments/assets/c6ba6523-d52a-46ea-aa7b-1d1a1816697c" />
+<img width="1778" height="847" alt="Screenshot 2026-03-17 230637" src="https://github.com/user-attachments/assets/ac22e381-daa7-4b2a-97a9-99facec2a9c6" />
+<img width="1919" height="840" alt="Screenshot 2026-03-17 230619" src="https://github.com/user-attachments/assets/13149935-4261-4980-a1aa-bf76494b66b3" />
+<img width="1917" height="748" alt="Screenshot 2026-03-17 230549" src="https://github.com/user-attachments/assets/361bd825-2eb4-494b-9637-c403b45b226b" />
 <div align="center">
 
 # 🔮 saas-churn-intelligence
