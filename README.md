@@ -45,6 +45,8 @@ The standalone dashboard shows real-time model metrics, feature importance, risk
 
 | Model | ROC-AUC | Accuracy | F1 (Churn) | PR-AUC |
 |-------|:-------:|:--------:|:----------:|:------:|
+| Logistic Regression | 0.851 | 74% | 0.63 | — |
+| Random Forest | 0.860 | 81% | 0.62 | — |
 | GBM (tuned) | 0.913 | 83% | 0.72 | 0.806 |
 | **XGBoost (best)** | **0.923** | **85%** | **0.74** | **0.824** |
 
@@ -74,8 +76,8 @@ saas-churn-intelligence/
 │   ├── 02_data_exploration.ipynb         # EDA, distributions, correlations
 │   ├── 03_benchmark_comparison.ipynb     # LR vs RF baseline benchmarks
 │   ├── 04_model_training.ipynb           # XGBoost + GBM tuning, SMOTE
-│   ├── 05_model_interpretation.ipynb     # Feature importance, explainability 
-│   └── 06_business_impact.ipynb          # ROI, CLTV segmentation, playbook 
+│   ├── 05_model_interpretation.ipynb     # Feature importance, explainability ✅
+│   └── 06_business_impact.ipynb          # ROI, CLTV segmentation, playbook ✅
 │
 ├── 📊 data/
 │   ├── processed/
