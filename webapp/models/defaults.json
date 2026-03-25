@@ -1,0 +1,160 @@
+{
+  "defaults": {
+    "number_of_referrals": 3.0,
+    "total_extra_data_charges": 0.0,
+    "total_revenue": 2108.64,
+    "total_charges": 1395.05,
+    "tenure_in_months": 21.0,
+    "age": 46.0,
+    "monthly_charge": 70.2,
+    "total_refunds": 0.0,
+    "total_long_distance_charges": 403.9,
+    "streaming_movies": "0",
+    "multiple_lines": "0",
+    "paperless_billing": "1",
+    "phone_service": "1",
+    "internet_service": "1",
+    "streaming_tv": "0",
+    "gender": "Female",
+    "online_backup": "0",
+    "online_security": "0",
+    "internet_type": "Fiber Optic",
+    "device_protection_plan": "0",
+    "contract": "Month-to-Month",
+    "unlimited_data": "1",
+    "married": "0",
+    "streaming_music": "0",
+    "payment_method": "Bank Withdrawal"
+  },
+  "cat_cols": [
+    "streaming_movies",
+    "multiple_lines",
+    "paperless_billing",
+    "phone_service",
+    "internet_service",
+    "streaming_tv",
+    "gender",
+    "online_backup",
+    "online_security",
+    "internet_type",
+    "device_protection_plan",
+    "contract",
+    "unlimited_data",
+    "married",
+    "streaming_music",
+    "payment_method"
+  ],
+  "num_cols": [
+    "number_of_referrals",
+    "total_extra_data_charges",
+    "total_revenue",
+    "total_charges",
+    "tenure_in_months",
+    "age",
+    "monthly_charge",
+    "total_refunds",
+    "total_long_distance_charges"
+  ],
+  "cat_options": {
+    "streaming_movies": [
+      "0",
+      "1",
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "multiple_lines": [
+      "0",
+      "1",
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "paperless_billing": [
+      "0",
+      "1",
+      "No",
+      "Yes"
+    ],
+    "phone_service": [
+      "0",
+      "1",
+      "No",
+      "Yes"
+    ],
+    "internet_service": [
+      "0",
+      "1",
+      "No",
+      "Yes"
+    ],
+    "streaming_tv": [
+      "0",
+      "1",
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "gender": [
+      "Female",
+      "Male"
+    ],
+    "online_backup": [
+      "0",
+      "1",
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "online_security": [
+      "0",
+      "1",
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "internet_type": [
+      "Cable",
+      "DSL",
+      "Fiber Optic",
+      "Unknown"
+    ],
+    "device_protection_plan": [
+      "0",
+      "1",
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "contract": [
+      "Month-to-Month",
+      "One Year",
+      "Two Year"
+    ],
+    "unlimited_data": [
+      "0",
+      "1",
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "married": [
+      "0",
+      "1",
+      "No",
+      "Yes"
+    ],
+    "streaming_music": [
+      "0",
+      "1",
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "payment_method": [
+      "Bank Withdrawal",
+      "Credit Card",
+      "Mailed Check"
+    ]
+  }
+}

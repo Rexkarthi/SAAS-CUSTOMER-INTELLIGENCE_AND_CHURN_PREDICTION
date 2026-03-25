@@ -1,0 +1,4 @@
+contract,payment_method,paperless_billing,internet_service,internet_type,phone_service,multiple_lines,online_security,online_backup,device_protection_plan,unlimited_data,streaming_tv,streaming_movies,streaming_music,gender,married,number_of_referrals,monthly_charge,tenure_in_months,total_charges,total_revenue,total_refunds,total_long_distance_charges,total_extra_data_charges,age
+Month-to-Month,Credit Card,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,No,No,No,Male,No,0,85,6,510,540,0,80,0,32
+Two Year,Bank Withdrawal,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,Yes,3,52,48,2496,2650,5,200,10,45
+Month-to-Month,Mailed Check,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,No,No,Male,No,0,99,3,297,310,0,40,0,27
